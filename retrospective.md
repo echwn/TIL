@@ -27,4 +27,4 @@ true && false;
 애니악 이전의 기계식 컴퓨터의 동작원리가 인상깊었다. 
 
 ## 3. 오늘 읽은 자료
-[Github](https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0): github 프로젝트 관리
+[Github 프로젝트 관리하기](https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0): commit, push, pull
