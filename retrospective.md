@@ -28,3 +28,29 @@ true && false;
 
 ## 3. 오늘 읽은 자료
 [Github 프로젝트 관리하기](https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0): commit, push, pull
+
+# 3/21(수)
+
+## 1. Today I learned
+
+### 1-1. JavaScript 제어 흐름
+
+초기값이 실행된 후 조건이 true인 동안 반복 갱신
+
+```// for 구문
+for (let i = 0; i < 5; i++) { // (초기값; 조건; 갱신)
+  console.log(`이 코드는 ${i + 1}번 째 실행되고 있습니다.`);
+}
+```
+
+괄호 안의 값이 true인지만 체크
+
+```// while 구문
+let i = 0;
+while (i < 5) {
+  console.log('이 코드는 괄호 안의 값이 `true`인 한 계속 실행됩니다.')
+  i++;
+}
+```
+
+
